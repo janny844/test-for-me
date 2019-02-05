@@ -3,4 +3,5 @@ purple
 green
 yellow
 indigo
+red
 and the unicorn
